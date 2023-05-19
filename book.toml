@@ -1,0 +1,6 @@
+[book]
+authors = ["Factorial"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Factorial's Ramblings"
