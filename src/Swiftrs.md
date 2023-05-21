@@ -3,7 +3,7 @@
 Swiftrs is a library that I have drafted up which will allow for (hopefully) seamless interaction
 between compiled Rust libraries and Swift code. It makes use of a thin C FFI layer to pass data
 between the languages without the need for serialization or certain runtime checks. While the design
-is mostly done, I haven't yet finished figuring out hwo best to implement it, so there isn't any
+is mostly done, I haven't yet finished figuring out how best to implement it, so there isn't any
 code that you can use right now. If you are interested in how the library's API will work, read on!
 
 # Overview
